@@ -8,11 +8,14 @@ This project uses deep learning to detect and classify diseases in apple crops, 
 
 The objective of this project is to develop a robust model for detecting and classifying apple diseases based on leaf images. Key goals include:
 
-## Early Disease Detection: Identifying diseases in initial stages to minimize crop damage.
+## Early Disease Detection:
+Identifying diseases in initial stages to minimize crop damage.
 
-## Yield Optimization: Assisting farmers in applying targeted treatments, thereby enhancing yield.
+## Yield Optimization:
+Assisting farmers in applying targeted treatments, thereby enhancing yield.
 
-## Resource Efficiency: Reducing the use of pesticides and other resources by diagnosing specific issues.
+## Resource Efficiency:
+Reducing the use of pesticides and other resources by diagnosing specific issues.
 
 ## Dataset
 
